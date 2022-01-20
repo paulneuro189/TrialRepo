@@ -1,0 +1,7 @@
+#Useful git commands
+
+git status #checks the status of the repo
+git add -A #adds altered and untracked files to staging area
+git commit -am '<message>' #the a is all, the m is message. commits changes with message
+git push #push committed changes up to Github
+git pull #pull any changes from Github local repo
