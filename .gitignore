@@ -1,0 +1,6 @@
+#List of file and file types not tracked by Git
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.pdf
